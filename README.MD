@@ -28,7 +28,8 @@ To launch training, please checkout and use `stage1.sh` and `stage2.sh` respecti
 #### 1.4 Inference
 
 Please c.f. `run_inference.sh` for running inference of the provided checkpoints. 
-We use lyrics understanding as an example in the scripts.
+We use lyrics understanding (`model_lyrics_grid.py`) as an example in the scripts;
+replace it with other scripts (e.g., `model_musicqacaption.py`) for other splits of OpenMU-Bench (e.g., MusicQA captioning).
 
 
 ## If you find our work helpful, please consider citing us:
