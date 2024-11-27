@@ -2,7 +2,9 @@ This is the codebase for the project:
 
 *OpenMU: Your Swiss Army Knife for Music Understanding*
 
-[Paper](https://arxiv.org/abs/2410.15573)
+[Paper](https://arxiv.org/abs/2410.15573) [Project Page](https://mzhaojp22.github.io/open_music_understanding/) 
+
+[GitHub](https://github.com/sony/openmu) [HF] (https://huggingface.co/datasets/Sony/OpenMU-Bench)
 
 ## Quick start
 
